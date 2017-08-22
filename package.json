@@ -1,0 +1,19 @@
+{
+  "name": "tues",
+  "version": "1.0.0",
+  "description": "gybyb",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chesterbin/Tuesday.git"
+  },
+  "author": "chesterbin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chesterbin/Tuesday/issues"
+  },
+  "homepage": "https://github.com/chesterbin/Tuesday#readme"
+}
