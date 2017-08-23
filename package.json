@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chesterbin/Tuesday/issues"
   },
-  "homepage": "https://github.com/chesterbin/Tuesday#readme"
+  "homepage": "https://github.com/chesterbin/Tuesday#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
 }
